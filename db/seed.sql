@@ -1,11 +1,9 @@
-INSERT INTO department (name)
+INSERT INTO department (dept_name)
 VALUES 
         ("IT"),
         ("Customer Service"),
         ("Retail"),
         ("Human Resources");
-
-SELECT * FROM department;
 
 INSERT INTO role (title, salary, department_id)
 VALUES
@@ -15,8 +13,6 @@ VALUES
         ("Customer Service Assistant", 20000, 2),
         ("Retail Assitant", 20000, 4),
         ("Intern", 18000, 1);
-
-SELECT * FROM role;
 
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
 VALUES 
