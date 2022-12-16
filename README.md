@@ -1,7 +1,7 @@
 # Employee-tracker
-## Description
-# Employee Tracker application using Node.js, Inquirer, and MySQL.
-# For this assignment I was tasked with creating a command-line application from scratch as there is not starter code. This is an interface that allow non-developers to easily view and interact with the information stored in the databases. These interfaces are called content management systems (CMS).
+# Description
+## Employee Tracker application using Node.js, Inquirer, and MySQL.
+## For this assignment I was tasked with creating a command-line application from scratch as there is not starter code. This is an interface that allow non-developers to easily view and interact with the information stored in the databases. These interfaces are called content management systems (CMS).
 
 ## Installation
 
